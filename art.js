@@ -9,7 +9,12 @@ function setup() {
   // Change by Dan
   rect(50, 50, 55, 55);
   // Change by Khang
-  
+  let c1 = color(0,0,255)
+  fill(c1)
+  triangle(0, 0, 200, 50, 400, 0);
+  let c2 = color(255,0,0)
+  fill(c2)
+  triangle(400, 400, 200, 50, 0, 400);
   // Change by William
   
   // Change by Dongjae
