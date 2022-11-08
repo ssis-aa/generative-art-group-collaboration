@@ -16,7 +16,14 @@ function setup() {
   triangle(400, 400, 200, 50, 0, 400);
   
   // Change by William
-  
+   let ran = random(0,255)
+  let rancolor = color(ran,ran,ran)
+  fill(rancolor)
+  triangle(50,25,78,32,65,12);
+ triangle(356,239,389,386,238,276);
+   triangle(23,98,45,78,67,68);
+  triangle(239,298,384,387,198,389);
+    triangle(389,65,263,400,323,166);
   
   // Change by Dongjae
   
