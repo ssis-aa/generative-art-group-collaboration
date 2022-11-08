@@ -11,6 +11,9 @@ The order is
 - Dongjae
 
 ``` js
+
+## Starting code
+
 function setup() {
   createCanvas(400, 400);
   background(220, 0, 0);
@@ -29,4 +32,10 @@ function setup() {
 function draw() {
   //background(220);
 }
+```
+
+## Final "Masterpiece" after 20 minutes
+
+``` js
+// nothing to be seen
 ```
